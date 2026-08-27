@@ -1,26 +1,119 @@
-<h1 align="center">Hi 👋, I'm Prabhat Kumar</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<div align="center">
+  <h1>Hi 👋, I'm Prabhat Kumar</h1>
+  <h3>Data Analyst | Business Intelligence & Data Visualization</h3>
+  <p>
+    <b>Master of Computer Applications (MCA) &nbsp;|&nbsp; Certified Google Data Analyst</b>
+  </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kprabhat330" alt="kprabhat330" /></a> </p>
+  <p>
+    <a href="https://kprabhat330.github.io/prabhatkumar/" target="_blank">
+      <img src="https://img.shields.io/badge/Portfolio-🌐_Visit_Website-1A365D?style=for-the-badge&logoColor=white" alt="Portfolio" />
+    </a>
+    <a href="https://www.linkedin.com/in/prabhat-kumar330/" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="mailto:kprabhat2304@gmail.com">
+      <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+  </p>
+</div>
 
-- 🔭 I’m currently working on **Network Security Toolkit**
+---
 
-- 🌱 I’m currently learning **Burp Suite, Metasploit,Nmap,Nikto,AWS, Azure, Google Cloud,**
+### 👨‍💻 About Me
 
-- 📫 How to reach me **kprabhat2304@gmail.com**
+Detail-oriented **Data Analyst** with an **MCA degree** and hands-on experience in operational data analysis, dispute case investigation, KPI/SLA tracking, root cause analysis, and executive reporting. Rapidly promoted to **Subject Matter Expert (SME)** within 6 months at AcuittyTech Pvt. Ltd. for high analytical accuracy and data quality standards.
 
-- ⚡ Fun fact **Did you know that the first computer virus was created in 1983 by a 15-year-old student named Rich Skrenta? It was called the Elk Cloner, and it spread via floppy disks. It wasn't malicious, but it was a pioneering piece of code that could "infect" other programs, making it one of the earliest examples of a self-replicating virus! Cybersecurity has certainly come a long way since then! 😊**
+- 🔭 **Current Focus:** Advanced Data Analytics, SQL Query Optimization, Python (Pandas, NumPy), and Interactive BI Dashboards.
+- 🎓 **Education:** Master of Computer Applications (**MCA** - 7.34 CGPA) & Bachelor of Computer Applications (**BCA** - 8.08 CGPA) from Lovely Professional University.
+- 📜 **Certifications:** Google Data Analytics Professional Certificate, Foundations of Cybersecurity, Programming in Java, Cisco Networking Basics.
+- 💼 **Domain Experience:** Dispute Case Analysis, Data Quality Auditing, SLA Tracking, MIS Dashboard Building, and Primary/Secondary Research Analysis.
+- 📫 **Contact Me:** [kprabhat2304@gmail.com](mailto:kprabhat2304@gmail.com) | [LinkedIn](https://www.linkedin.com/in/prabhat-kumar330/) | [Portfolio](https://kprabhat330.github.io/prabhatkumar/)
 
-<h3 align="left">Connect with me:</h3>
+---
+
+### 🛠️ Technical Skills & Data Analyst Toolkit
+
+| Category | Technologies & Tools |
+| :--- | :--- |
+| **Data Analytics & Methods** | Data Analysis, Data Cleaning, Data Validation, Data Transformation, Trend Analysis, Root Cause Analysis, Pattern Recognition, KPI & SLA Tracking, Data Quality Assurance, Business Insights |
+| **Databases & Querying** | SQL, MySQL, Relational Database Management (RDBMS), MongoDB, MS Access, Data Modeling |
+| **Visualization & Reporting** | Advanced Excel (Pivot Tables, VLOOKUP/HLOOKUP, Dynamic Charts, Data Modeling), Dashboard Building, MIS Reporting, Tableau, MS PowerPoint |
+| **Programming & Tools** | Python (Pandas, NumPy, Data Analytics), Java, C++, C#, MS Office Suite |
+
 <p align="left">
-<a href="https://linkedin.com/in/linkedin.com/in/prabhat-kumar330" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/prabhat-kumar330" height="30" width="40" /></a>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="45" height="45"/>
+  &nbsp;&nbsp;
+  <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="sql" width="40" height="40"/>
+  &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="45" height="45"/>
+  &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+  &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
+  &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kprabhat330&show_icons=true&locale=en&layout=compact" alt="kprabhat330" /></p>
+### 📊 Featured Data Analyst Projects
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kprabhat330&show_icons=true&locale=en" alt="kprabhat330" /></p>
+#### 1. [Walmart SFF Dispute Data & KPI Analysis](https://kprabhat330.github.io/prabhatkumar/)
+- **Description:** Performed end-to-end data analysis on 100+ weekly transaction dispute cases at AcuittyTech Pvt. Ltd. Identified operational bottlenecks, error patterns, and root causes.
+- **Key Deliverables:** Engineered standardized Excel KPI reporting templates for daily/weekly management visibility, maintaining 98%+ data accuracy.
+- **Tech Stack:** `SQL` • `Advanced Excel` • `Root Cause Analysis` • `KPI & SLA Tracking`
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kprabhat330&" alt="kprabhat330" /></p>
+#### 2. [Excel Operational Performance Dashboard](https://kprabhat330.github.io/prabhatkumar/)
+- **Description:** Designed and built interactive Excel dashboards using Pivot Tables, VLOOKUP/HLOOKUP, and dynamic charts to visualize key operational metrics and performance indicators.
+- **Key Deliverables:** Automated data cleaning and transformation pipelines to ensure dataset integrity prior to executive reporting.
+- **Tech Stack:** `Advanced Excel` • `Pivot Tables` • `Data Validation` • `Dashboard Building`
+
+#### 3. [Cab Rental Management System & RDBMS](https://kprabhat330.github.io/prabhatkumar/)
+- **Description:** Engineered a normalized MySQL relational database schema (Customer, Vehicle Inventory, Booking, Billing) to streamline record retrieval and maintain data integrity.
+- **Key Deliverables:** Developed structured SQL query modules and automated reporting functions to minimize manual record-keeping errors.
+- **Tech Stack:** `MySQL` • `RDBMS` • `Data Modeling` • `SQL Querying`
+
+---
+
+### 💼 Professional Experience
+
+- 📌 **Subject Matter Expert (SME) — Promoted** | *AcuittyTech Pvt. Ltd.* *(Dec 2025 – Jul 2026)*
+  - Led dispute case data analysis, KPI reporting, SLA tracking, and data quality audits for Walmart SFF Dispute Process. Mentored 25+ associates on reporting procedures.
+- 📌 **Operations Associate** | *AcuittyTech Pvt. Ltd.* *(Jul 2025 – Dec 2025)*
+  - Analyzed 50+ cases daily, performed data validation, maintained 100% SLA compliance, and earned fast-track promotion to SME within 6 months.
+- 📌 **Research Associate** | *Acadecraft Inc.* *(Nov 2021 – Aug 2022)*
+  - Conducted structured primary & secondary research data collection. Awarded **Employee of the Month (July 2022)** for analytical rigor.
+
+---
+
+### 📜 Certifications
+
+- 🏅 **Google Data Analytics Professional Certificate** — *Google (Coursera)*
+  - *Core Modules:* Data Foundations, Data Exploration, SQL Querying, Data Cleaning, Python Data Analysis, Tableau Visualization, and Capstone Case Study.
+- 🛡️ **Foundations of Cybersecurity** — *Google (Coursera)*
+- ☕ **Programming in Java** — *Cipher Schools*
+- 🌐 **Networking Basics** — *Cisco Networking Academy*
+
+---
+
+### 📈 GitHub Statistics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kprabhat330&show_icons=true&theme=midnight&border_radius=8" alt="Prabhat's GitHub Stats" height="160" />
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kprabhat330&layout=compact&theme=midnight&border_radius=8" alt="Top Languages" height="160" />
+</div>
+
+---
+
+<div align="center">
+  <h3>📫 Connect With Me</h3>
+  <p>
+    <a href="https://kprabhat330.github.io/prabhatkumar/" target="_blank"><b>🌐 Portfolio Website</b></a> &nbsp;|&nbsp;
+    <a href="https://www.linkedin.com/in/prabhat-kumar330/" target="_blank"><b>💼 LinkedIn Profile</b></a> &nbsp;|&nbsp;
+    <a href="mailto:kprabhat2304@gmail.com"><b>📧 Email Me</b></a>
+  </p>
+</div>
