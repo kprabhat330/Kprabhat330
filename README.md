@@ -80,12 +80,25 @@ Results-driven **Data Analyst & BI Specialist** with an **MCA degree** and hands
 
 ### 💼 Professional Experience
 
-- 📌 **Subject Matter Expert (SME) — Promoted** | *AcuittyTech Pvt. Ltd.* *(Dec 2025 – Jul 2026)*
-  - Led dispute case data analysis, KPI reporting, SLA tracking, and data quality audits for Walmart SFF Dispute Process. Mentored 25+ associates on reporting procedures.
-- 📌 **Operations Associate** | *AcuittyTech Pvt. Ltd.* *(Jul 2025 – Dec 2025)*
-  - Analyzed 50+ cases daily, performed data validation, maintained 100% SLA compliance, and earned fast-track promotion to SME within 6 months.
-- 📌 **Research Associate** | *Acadecraft Inc.* *(Nov 2021 – Aug 2022)*
-  - Conducted structured primary & secondary research data collection. Awarded **Employee of the Month (July 2022)** for analytical rigor.
+- 📌 **AcuittyTech Pvt. Ltd. | Gurugram, India** *(Jul 2025 – Jul 2026)*
+  - **Promoted from Operations Associate to Subject Matter Expert (SME)**
+  - **Subject Matter Expert (SME) — Dec 2025 – Jul 2026**
+    - Executed end-to-end analysis of 100+ Walmart SFF dispute cases weekly, identifying operational anomalies, trends, and root causes.
+    - Designed daily, weekly, and monthly KPI dashboards and MIS reports tracking resolution rate, TAT, and process accuracy.
+    - Conducted data quality audits and transaction-level validation, maintaining 98%+ data accuracy and adherence to SLA benchmarks.
+    - Mentored and trained 25+ associates across 4 batches on data validation, reporting tools, and analytical workflows.
+    - Collaborated with cross-functional stakeholders to communicate insights and support workflow improvements.
+  - **Operations Associate — Jul 2025 – Dec 2025**
+    - Analyzed and processed 50+ Walmart SFF dispute cases daily, performing transaction-level verification for financial claims and resolution accuracy.
+    - Applied data cleaning and transformation techniques to operational datasets while maintaining data integrity.
+    - Identified recurring discrepancies and operational bottlenecks and documented findings for process improvement.
+    - Prepared daily reports covering case volumes, resolution rates, and error distribution.
+    - Maintained 100% SLA compliance and earned promotion to SME within 6 months based on analytical performance and data accuracy.
+
+- 📌 **Acadecraft Inc. | India** *(Nov 2021 – Aug 2022)*
+  - **Research Associate**
+  - Conducted structured data collection, extraction, and synthesis across primary and secondary research projects, delivering comprehensive reports and presentations.
+  - Coordinated with 3+ cross-departmental teams to deliver analytical research projects on schedule. Awarded **Employee of the Month (July 2022)** for analytical rigor.
 
 ---
 
